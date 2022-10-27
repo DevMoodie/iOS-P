@@ -3,7 +3,7 @@
 ## Klevr.ai
 [Klevr.ai](https://klevr.ai) Klevr is an athletic platform that provides the tools for anyone to gain an edge with our growing community of Coaches, Parents, & Athletes who use Klevr to assist in the collective ability to play smarter, not harder. The iOS app lets the users show off their skills, purchase Grade A sport resources, chat with their coaches and more.
 
-##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Push Notifications, Firebase SDK, REST API (GraphQL on an early MVP).
+##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Push Notifications, Firebase SDK, REST API.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
 <a href="https://apps.apple.com/ca/app/klevr-sports/id1560186555" target="_blank"><img src="images/klevr/klevr.png" width="900" title="Klevr"></a>
