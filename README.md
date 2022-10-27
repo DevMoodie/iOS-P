@@ -1,7 +1,7 @@
 <a href="https://apps.apple.com/us/developer/mahmoud-youssef/id1530725263" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Mahmoud%20Youssef-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/deenod" target="_blank"><img src="https://img.shields.io/badge/linkedin-mahmoud-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Klevr.ai
-[Klevr.ai](https://klevr.ai) Klevr is an athletic platform that provides the tools for anyone to gain an edge with our growing community of Coaches, Parents, & Athletes who use Klevr to assist in the collective ability to play smarter, not harder. The iOS app lets the users show off their skills, purchase Grade A sport resources, chat with their coaches and more.
+[Klevr.ai](https://klevr.ai) is an athletic platform that provides the tools for anyone to gain an edge with our growing community of Coaches, Parents, & Athletes who use Klevr to assist in the collective ability to play smarter, not harder. The iOS app lets the users show off their skills, purchase Grade A sport resources, chat with their coaches and more.
 
 ##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Push Notifications, Firebase SDK, REST API.
 ##### 🚀Platform: 📱iOS, iPad.
