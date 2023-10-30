@@ -9,6 +9,24 @@
 <a href="https://apps.apple.com/ca/app/klevr-sports/id1560186555" target="_blank"><img src="images/klevr/klevr.png" width="900" title="Klevr"></a>
 </p>
 
+## DeenOD
+[DeenOD](https://deenoverdunya.io) is an Islamic trivia game that is easy to master for those who have the 'Ilm. Answer the questions, score points, earn coins, buy heroes, and be amongst the top 4 players who know their deen.
+
+##### 🔨Technologies: SwiftUI, Combine, MVVM, Notifications, GitHub, CoreData, TDD.
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
+</p>
+
+## Harry Potter
+[Harry Potter](https://deenoverdunya.io) characters & spells on the go. Explore characters and spells from the series in detail. It's a user-friendly tool that provides comprehensive information, perfect for both casual fans and hardcore Potterheads.
+
+##### 🔨Technologies: SwiftUI, Combine, MVVM, Protocols, Delegates, SwiftData, Unit Tests, TDD.
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
+</p>
+
 ## ChatAI
 [ChatAI](https://openai.com) Transform the way you communicate with ChatAI - the free iOS app that offers the ultimate conversational experience. Download now and discover the power of AI-driven conversations!
 
@@ -16,15 +34,6 @@
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
 <a href="" target="_blank"><img src="images/chatai/chatai.png" width="900" title="ChatAI"></a>
-</p>
-
-## DeenOD
-[DeenOD](https://deenoverdunya.io) is an Islamic trivia game that is easy to master for those who have the 'Ilm. Answer the questions, score points, earn coins, buy heroes and be amongst the top 4 players who know their deen.
-
-##### 🔨Technologies: SwiftUI, Combine, MVVM, Notifications, GitHub, CoreData, TDD.
-##### 🚀Platform: 📱iOS, iPad.
-<p align="center">
-<a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
 </p>
 
 *Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
