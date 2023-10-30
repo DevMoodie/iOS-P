@@ -23,6 +23,7 @@
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Protocols, Delegates, SwiftData, Unit Tests, TDD.
 ##### 🚀Platform: 📱iOS, iPad.
+##### 📣Shoutout: [Inspiration](https://github.com/Oksenoyt/HarryPotterCharacters), [UI](https://dribbble.com/shots/13950946-Harry-Potter-Handbook-for-the-Potterheads)
 <p align="center">
 <a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
 </p>
