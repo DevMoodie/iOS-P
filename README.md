@@ -19,13 +19,13 @@
 </p>
 
 ## Harry Potter
-[Harry Potter](https://deenoverdunya.io) characters & spells on the go. Explore characters and spells from the series in detail. It's a user-friendly tool that provides comprehensive information, perfect for both casual fans and hardcore Potterheads.
+[Harry Potter](https://github.com/DevMoodie/HP-SwiftUI) characters & spells on the go. Explore characters and spells from the series in detail. It's a user-friendly tool that provides comprehensive information, perfect for both casual fans and hardcore Potterheads.
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Protocols, Delegates, SwiftData, Unit Tests, TDD.
 ##### 🚀Platform: 📱iOS, iPad.
 ##### 📣Shoutout: [Inspiration](https://github.com/Oksenoyt/HarryPotterCharacters), [UI](https://dribbble.com/shots/13950946-Harry-Potter-Handbook-for-the-Potterheads)
 <p align="center">
-<a href="" target="_blank"><img src="images/harryp/harryP.png" width="900" title="Harry Potter"></a>
+<a href="https://github.com/DevMoodie/HP-SwiftUI" target="_blank"><img src="images/harryp/harryP.png" width="900" title="Harry Potter"></a>
 </p>
 
 ## ChatAI
