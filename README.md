@@ -18,23 +18,6 @@
 <a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
 </p>
 
-## Harry Potter
-[Harry Potter](https://github.com/DevMoodie/HP-SwiftUI) characters & spells on the go. Explore characters and spells from the series in detail. It's a user-friendly tool that provides comprehensive information, perfect for both casual fans and hardcore Potterheads.
 
-##### 🔨Technologies: SwiftUI, Combine, MVVM, Protocols, Delegates, SwiftData, Unit Tests, TDD.
-##### 🚀Platform: 📱iOS, iPad.
-##### 📣Shoutout: [Inspiration](https://github.com/Oksenoyt/HarryPotterCharacters), [UI](https://dribbble.com/shots/13950946-Harry-Potter-Handbook-for-the-Potterheads)
-<p align="center">
-<a href="https://github.com/DevMoodie/HP-SwiftUI" target="_blank"><img src="images/harryp/harryP.png" width="900" title="Harry Potter"></a>
-</p>
-
-## ChatAI
-[ChatAI](https://openai.com) Transform the way you communicate with ChatAI - the free iOS app that offers the ultimate conversational experience. Download now and discover the power of AI-driven conversations!
-
-##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, RxSwift/Combine, Push Notifications, AWS Amplify.
-##### 🚀Platform: 📱iOS, iPad.
-<p align="center">
-<a href="" target="_blank"><img src="images/chatai/chatai.png" width="900" title="ChatAI"></a>
-</p>
 
 *Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
