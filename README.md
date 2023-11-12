@@ -9,6 +9,15 @@
 <a href="https://apps.apple.com/ca/app/klevr-sports/id1560186555" target="_blank"><img src="images/klevr/klevr.png" width="900" title="Klevr"></a>
 </p>
 
+## AudioAbyss
+[AudioAbyss](https://github.com/DevMoodie/AudioAbyss) is a Spotify client app that offers an immersive music experience, allowing users to discover, explore, and curate their own unique albums and playlists.
+
+##### 🔨Technologies: SwiftUI, Combine, MVVM, GitHub, AVFoundation, REST API.
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="" target="_blank"><img src="images/audioabyss/audioabyss.png" width="900" title="AudioAbyss"></a>
+</p>
+
 ## DeenOD
 [DeenOD](https://apps.apple.com/us/app/deenod/id1559388503) is an Islamic trivia game that is easy to master for those who have the 'Ilm. Answer the questions, score points, earn coins, buy heroes, and be amongst the top 4 players who know their deen.
 
