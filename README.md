@@ -19,14 +19,10 @@
 </p>
 
 ## DeenOD
-[DeenOD](https://deenoverdunya.cc) is an Islamic trivia game that is easy to master for those who have the 'Ilm. Answer the questions, score points, earn coins, buy heroes, and be amongst the top 4 players who know their deen.
+[DeenOD](https://apps.apple.com/ca/app/deenod/id1559388503) is an Islamic trivia game that is easy to master for those who have the 'Ilm. Answer the questions, score points, earn coins, buy heroes, and be amongst the top 4 players who know their deen.
 
 ##### 🔨Technologies: SwiftUI, Combine, MVVM, Notifications, GitHub, CoreData, TDD.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
 <a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
 </p>
-
-
-
-*Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
