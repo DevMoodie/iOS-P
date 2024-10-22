@@ -18,6 +18,15 @@
 <a href="https://apps.apple.com/us/app/deenod/id1559388503" target="_blank"><img src="images/deenod/deenod.png" width="900" title="DeenOD"></a>
 </p>
 
+## Itinerize
+[Itinerize](https://github.com/DevMoodie/Itinerize) is an AI-powered travel app that helps users plan their perfect trip by generating personalized itineraries. With Itinerize, travellers can effortlessly discover the best hotels, flights, and activities based on their destination and preferences. The iOS app provides real-time updates, custom recommendations, and booking options, ensuring an unforgettable travel experience with just a few taps.
+
+##### 🔨Technologies: SwiftUI, Combine, MVVM + Clean Architecture, Unit Tests, REST API.
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="https://github.com/DevMoodie/Itinerize" target="_blank"><img src="images/itinerize/itinerize.png" width="900" title="Klevr"></a>
+</p>
+
 ## AudioAbyss
 [AudioAbyss](https://github.com/DevMoodie/AudioAbyss) is a Spotify client app that offers an immersive music experience, allowing users to discover, explore, and curate their own unique albums and playlists.
 
